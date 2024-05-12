@@ -4,7 +4,7 @@ def input_length_validator(first_name, last_name):
     else:
         print("Input length validation successful.")
 
-# Example usage:
+# Example:
 first_name = input("Enter your first name: ")
 last_name = input("Enter your last name: ")
 input_length_validator(first_name, last_name)
