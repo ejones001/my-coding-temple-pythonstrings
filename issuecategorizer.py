@@ -9,6 +9,5 @@ def issue_categorizer(user_input):
     else:
         print("No issue found in the input.")
 
-# Example usage:
 user_input = input("Please describe the issue you're facing: ")
 issue_categorizer(user_input)
