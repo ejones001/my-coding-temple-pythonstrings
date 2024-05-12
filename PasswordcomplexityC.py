@@ -10,6 +10,6 @@ def password_complexity_checker(password):
     else:
         print("Password check successful.")
 
-# Example usage:
+
 password = input("Enter your password: ")
 password_complexity_checker(password)
